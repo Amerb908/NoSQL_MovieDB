@@ -2,16 +2,6 @@
 
 MovieDB is a Java-based project developed in Eclipse that utilizes MongoDB to showcase a collection of different movies. This README provides an overview of the project, its features, and how to get started.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 MovieDB is a simple yet powerful application that allows users to explore and discover various movies. The project is built in Java and uses MongoDB as its database to store and retrieve movie information.
@@ -37,5 +27,11 @@ Before you begin, ensure you have the following prerequisites:
 ## Setup
 
 1. Clone the repository to your local machine.
+2. Run it on eclipse.
+
+
+
+## Feedback
+If you do enjoy my project and would like to give me feedback, please let me know
 
 
